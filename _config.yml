@@ -29,9 +29,11 @@ github_username:  renfenghuan
 github: [metadata]
 
 # Build settings
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+#remote_theme: Gaohaoyang/gaohaoyang.github.io
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
