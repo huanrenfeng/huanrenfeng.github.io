@@ -29,7 +29,7 @@ github_username:  renfenghuan
 github: [metadata]
 
 # Build settings
-#theme: jekyll-theme-architect
+theme: minima
 #remote_theme: Gaohaoyang/gaohaoyang.github.io
 plugins:
   - jekyll-feed
