@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Huan's Blog!
