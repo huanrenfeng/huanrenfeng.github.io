@@ -10,7 +10,7 @@ permalink: /HuansAdventures/
 
 <img src="/myassets/img/ha_0.1354_log_pic1.png" alt="ha_0.1354_log_pic1" style="zoom:33%;" />
 
-Brawl, dance, drinking scooma, making out, BL, and masturbation are all implemented.
+Brawl, dance, drinking scooma, making out, Blowjob, and masturbation are all implemented.
 
 You need to run FNIS again.
 
