@@ -6,6 +6,16 @@ permalink: /BaD/
 
 # Being a Doggy Change Log
 
+## 0.873 (11-17-2020)
+
+Fix a fatal bug that BaD won't work when DDi not installed. 
+
+I think this time it can be played on SE.
+
+Fix a bug that the mod can't remove DDi armors correctly.
+
+
+
 ## 0.872  (11-12-2020)
 
 1. Make the mod print "Doggy Curse Cured!" notification once you get the curse cured. It's helpful when DDi is on, because the removal of all the devices is very slow, about 2 second per piece.
