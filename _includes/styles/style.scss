@@ -20,6 +20,7 @@
 
 @import "reboot-mod";
 
+
 {% unless site.hydejack.no_inline_css or jekyll.environment == 'development' %}
   @import "pooleparty/__link__/base";
   @import "pooleparty/__link__/type";
@@ -56,6 +57,9 @@
 
   @import "my-style";
 {% else %}
+
+$body-color:var(--bodycolor);
+$body-bg:var(--theme-color);
   @import "html";
 
   @import "pooleparty/_base.pre.scss";
