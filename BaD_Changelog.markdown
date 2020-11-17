@@ -10,8 +10,6 @@ permalink: /BaD/
 
 Fix a fatal bug that BaD won't work when DDi not installed. 
 
-I think this time it can be played on SE.
-
 Fix a bug that the mod can't remove DDi armors correctly.
 
 
