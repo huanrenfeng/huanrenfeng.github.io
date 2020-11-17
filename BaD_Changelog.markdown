@@ -6,6 +6,58 @@ permalink: /BaD/
 
 # Being a Doggy Change Log
 
+## 0.872  (11-12-2020)
+
+1. Make the mod print "Doggy Curse Cured!" notification once you get the curse cured. It's helpful when DDi is on, because the removal of all the devices is very slow, about 2 second per piece.
+1. Re-adjust the MuST preset for animated ears, making top ears more easily to get than side ears. Currently the number is 8:5, meaning that every 13 pairs of ears, you'll get 8 top ears, 5 side ears. It just is because I don't like side ears very much. You can adjust it tough. 050f9d25 ~ 050f9d29 are all side ears, the rest are top ears.
+1. Fix a bug that when Devious Device is on, we can't recover from being a doggy.
+1. Fix a bug that the mod can't remove DD armors properly.
+1. Forbid Gag, Blindfold,Harness,  Heavy Bondage, Suit and Yoke types of Devious Device by default.
+
+	These types might break doggy immersion.
+
+1. Found a bug that when option "Do Strip" and "Enable DDi" are both on, NPC will first strip its clothes then redress them, then equip Devious devices. I don't know why. They should never redess them because I have no such code written. But I think it's a bug from DDi, not BaD.
+
+1. Found a  bug that causes the mod not working when you didn't have DDi installed.
+
+1. Adjust MCM.
+
+## 0.871 (11-09-2020)
+
+1. Implemented Devious Devices!
+
+  See the pictures.
+  Toggle it on and off in MCM. Config which kind of devices you want to equip through the config power.
+
+2. And they will get equipped automatically when you become a doggy.
+
+    Note, when DDi feature is enabled, the doggy can not recover by simply unequiping the necklace,
+    I don't know why,but it must be something with DDi itself. 
+    However I think it's cool.
+
+
+3. Make "No Dialog Interact" feature work on PC too.
+4. Fix a bug that the reacting NPC won't sneak and come close to you to start talking to you.
+5. Fix a bug that the configuration of the BearTrap percentage won't work.
+
+
+
+What's next:
+
+    Improve DDi feature, making your master be able to unlock you.
+    Explore ZAP furniture.
+
+
+​    
+​    (SE version has not been tested by Huan, because I havent installed DD in SE yet. Tell me if you get any issues)
+
+
+
+    (New to Devious Devices? Install DDa, DDi, run FNIS, run Bodyslide.
+    And the BodySlide step is necessary. Because DDa itself have no meshes until you run BodySlide.
+    )
+
+
 
 
 ## 0.86
@@ -497,7 +549,7 @@ Added an option in MCM to let you change the “spanking” animation’s tag.
 		Note2: the Nemesis feature changes the Confidence and some more attributes, 
 		which might cause trouble if your doggy is not unique like some guards, 
 		bandits or random enemies.
-		
+	
 1. Moved “Resentful Instantly” to Nemesis section
 
 ## 0.5.6 (2020-1-15 )
@@ -662,19 +714,19 @@ Improved the fix for the fast travel bug. Now when you are near the doggy, it wi
 	More details about the fix and the fast travel bug in this version
 
 		the bug is caused due to the fact that all doggies functions are based on a magic effect starting from 0.4.6, and 
-
+		
 		fast traveling will dispel every magic effect on every NPCs.
-
+		
 		the bug will: 
 		
 			make the doggy’s animation revert to normal instead of crawling.
-
+		
 			make the doggy forget its data.
-
+		
 			not stop the “NPC interact Quest”, but interupt the scene. It was going to stop the quest before I did some works to walkaround it.
-
+		
 			not remove the “package” on the doggy. (Package is a AI stuff making the NPC act whatever you want). So you’ll see
-
+		
 		the doggy is still following you if it’s yours or just stay at the original place if it has no master. 
 
 	It was going to remove the package before I did some works to walkaround it.
@@ -682,9 +734,9 @@ Improved the fix for the fast travel bug. Now when you are near the doggy, it wi
 	the fix spell can 
 
 		fix the doggy if it is adopted by you.
-
+		
 		not completely fix the doggy if it is adopted by NPC.
-
+		
 		fix the doggy if it is not adopted by anyone.
 
 	after the fix the doggy will forget how many times it got fucked or fooled. 
@@ -1091,7 +1143,7 @@ added a mcm menu which introduce a “Constant Effect” toggle , added debug no
 ## 0.0.1:
 
 basic function, adds a lesser power called “doggyAutoFuck”. After casting this power, you have 10 seconds to sneak. Once you are sneaking and the spell effect is still on, the nearest actor  who can see you will have sex with you with doggy style.
- 
+
 has a “wont cast” bug. This “won’t cast” bug exists because I did not make Skyrim.esm as its depandence so I won’t load Skyrim.esm in Creation kit. Otherwise it is too slow to load ck.
 
 Temporary fix for the power didn’t cast :
