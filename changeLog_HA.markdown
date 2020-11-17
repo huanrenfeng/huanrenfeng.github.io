@@ -10,15 +10,13 @@ permalink: /HuansAdventures/
 
 <img src="myassets/img/ha_0.1354_log_pic1.png" alt="ha_0.1354_log_pic1" style="zoom:33%;" />
 
-HA 0.1354 is  be released
-
 Brawl, dance, drinking scooma, making out, BL, and masturbation are all implemented.
 
 You need to run FNIS again.
 
 ## 0.1353:(10/10/2020)
 
- remake the cowboy hat, new mesh and texture; now it comes with a hair, which solves the clipping problem entirely.
+Remake the cowboy hat, new mesh and texture; Now it comes with a hairdo, which solves the clipping problem entirely.
 
 ## 0.1352: (9/29/2020):
 
