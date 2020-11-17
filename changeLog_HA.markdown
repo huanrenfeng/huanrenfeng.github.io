@@ -8,6 +8,8 @@ permalink: /HuansAdventures/
 
 ## **Huan's Adventure 0.1354** (10-15-2020)
 
+<img src="myassets/img/ha_0.1354_log_pic1.png" alt="ha_0.1354_log_pic1" style="zoom:33%;" />
+
 HA 0.1354 is  be released
 
 Brawl, dance, drinking scooma, making out, BL, and masturbation are all implemented.
