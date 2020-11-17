@@ -28,6 +28,9 @@ twitter_username: huanrenfeng
 github_username:  renfenghuan
 github: [metadata]
 
+theme_color: rgb(0,0,0)
+bodycolor: green
+
 # Build settings
 #theme: jekyll-theme-hydejack
 #remote_theme: Gaohaoyang/gaohaoyang.github.io

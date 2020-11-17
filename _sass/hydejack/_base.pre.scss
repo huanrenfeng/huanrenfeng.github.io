@@ -19,7 +19,10 @@ body {
   display: block;
   position: relative;
   overflow-x: hidden;
+  background: var(--theme-color);
 }
+
+
 
 hy-push-state, hy-drawer {
   display: block;
