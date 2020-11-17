@@ -61,7 +61,13 @@
 $body-color:var(--bodycolor);
 $body-bg:var(--theme-color);
   @import "html";
+  
+  html {
 
+  --body-bg: var(--theme-color);
+
+  }
+  
   @import "pooleparty/_base.pre.scss";
   @import "pooleparty/_type.pre.scss";
   @import "pooleparty/_table.pre.scss";
