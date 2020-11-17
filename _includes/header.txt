@@ -10,5 +10,4 @@
  *                 \/__/                  \/___/
  *
  * Powered by Hydejack v9.0.5 <https://hydejack.com/>
- * edited by huan
  */
