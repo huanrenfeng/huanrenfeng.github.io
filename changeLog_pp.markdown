@@ -34,7 +34,7 @@ Along with the bug fix, there's also a new "Toggle Translation" button in 0.071.
 
 
 
-| <img src="/myassets/img/pp_0.07_log_pic1.png" alt="pp_0.07_log_pic1" style="zoom:50%;" /> | <img src="/myassets/img/pp_0.07_log_pic2.png" alt="pp_0.07_log_pic2" style="zoom:50%;" /> |
+| (nsfw)                                                       | (nsfw)                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="/myassets/img/pp_0.07_log_pic3.png" alt="pp_0.07_log_pic3" style="zoom:50%;" /> | <img src="/myassets/img/pp_0.07_log_pic4.png" alt="pp_0.07_log_pic4" style="zoom:50%;" /> |
 
