@@ -58,8 +58,6 @@
   @import "my-style";
 {% else %}
 
-$body-color:var(--bodycolor);
-$body-bg:var(--theme-color);
   @import "html";
 
   @import "pooleparty/_base.pre.scss";
