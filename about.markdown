@@ -19,3 +19,31 @@ permalink: /about/
 ## Huan's Other Good Things
 
 [7zip Dark Mode](https://github.com/renfenghuan/7zipDarkmode)
+
+
+
+## All of Huan's Mods
+
+Being a Doggy
+
+Huan's Adventures
+
+Public Plaything
+
+Multi-Stage Transformation Framework (MuST)
+
+Huan's Resources Pack
+
+Huan's Various Addons
+
+Immersive Jewelry Huan's Addon
+
+Egg Factory Huan's Addon
+
+Huan's SKSE plugin (included in Public Plaything 0.82+)
+
+SexLab Skill Loss
+
+Pose Sex
+
+Tree
