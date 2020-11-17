@@ -14,11 +14,11 @@ Brawl, dance, drinking scooma, making out, BL, and masturbation are all implemen
 
 You need to run FNIS again.
 
-## 0.1353:(10/10/2020)
+## 0.1353 (10/10/2020)
 
 Remake the cowboy hat, new mesh and texture; Now it comes with a hairdo, which solves the clipping problem entirely.
 
-## 0.1352: (9/29/2020):
+## 0.1352  (9/29/2020):
 
 1.   Remake the cowboy hat; Improve MCM and show your genre. 
 2.   Add a new keypoint after the trail;
@@ -60,7 +60,7 @@ Remake the cowboy hat, new mesh and texture; Now it comes with a hairdo, which s
 
 6. Make the massage available at anytime after the story3 is finished.( not tested)
 
-## 0.1330 logicPack(9/2/2020) :
+## 0.1330 logicPack(9/2/2020) 
 
 Add an MCM menu where you can have an option to jump to a certain story point directly. 
 
