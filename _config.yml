@@ -29,10 +29,11 @@ github_username:  renfenghuan
 github: [metadata]
 
 # Build settings
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 #remote_theme: Gaohaoyang/gaohaoyang.github.io
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 #  - jekyll-remote-theme
 
 # Exclude from processing.
