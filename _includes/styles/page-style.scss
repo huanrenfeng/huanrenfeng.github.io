@@ -8,4 +8,5 @@ html {
   --accent-color-darkened: #{darken({{ color }}, 7.5%)};
   --theme-color: {{ theme_color }};
   --body-color: {{ bodycolor }};
+  --body-bg: {{ theme_color }};
 }
