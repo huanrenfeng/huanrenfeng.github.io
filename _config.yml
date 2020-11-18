@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: huanrenfeng
 github_username:  renfenghuan
 github: [metadata]
+disqus_shortname: renfenghuan
 
 theme_color: rgb(0,0,0)
 bodycolor: green

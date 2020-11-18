@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: true
 title: Huan's SKSE Plugin
 permalink: /sksePlugin/
 ---
@@ -45,3 +46,4 @@ Copy the dll to Data\SKSE\Plugins and you are good to go!
 (It might contradict with ENB. but I don't know.)
 
 (It's LE plugin for now)
+
