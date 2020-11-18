@@ -8,7 +8,7 @@ My health condtion fluctuates from late October till now. I got a fever several 
 
 
 
-I don't know what's wrong with me. But I suspect that my immunity is broken somehow so that I could never recover from a simple disease. Or this disease is too harse. But I doubt it. People around me are all fine but why do me have to be sick?
+I don't know what's wrong with me. But I suspect that my immunity is broken somehow so that I could never recover from a simple disease. Or this disease is too harsh. But I doubt it. People around me are all fine but why do me have to be sick?
 
 
 
