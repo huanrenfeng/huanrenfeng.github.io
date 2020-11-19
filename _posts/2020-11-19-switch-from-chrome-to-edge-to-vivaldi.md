@@ -24,7 +24,7 @@ tags: [browser]
 
 ## Other Vivaldi's Nice Experience
 
-I find it a greate browser, and perhaps the best browser.
+I find it a great browser, and perhaps the best browser.
 
 - It support Chrome plugins.
 
@@ -38,7 +38,7 @@ I find it a greate browser, and perhaps the best browser.
   
   - Well, we all use Note apps like OneNote or Evernote to get it sync to all the platforms. But the in browser light weight note with some simple click might be useful for some inconsequential stuff.
   
-- TBH, I don't care many of it's unique features, The no-flash-from-white-to-black feature is enough.
+- TBH, I don't care many of it's other unique features, They might be useful but the no-flash-from-white-to-black feature is enough. I'm better off already.
 
 ## Disadvantage
 
