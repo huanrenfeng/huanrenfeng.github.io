@@ -10,9 +10,17 @@ tags: [browser]
 
 ## Switch from Edge to Vivaldi, several reasons:
 
-1. It flashes from white to black every time I activte the window. (I have Dark Reader installed but it works well in Vivaldi). My eyes are too fragile to bear this.
+1. It flashes from white to black every time I activte the window, also when starting the app ( the same issue occurs in Typora too). 
+
+   (I have Dark Reader installed so it flash from white to the black webpage that DarkReader renders but it works well in Vivaldi meaning that Dark Reader isn't the cause of the issue).
+
+    My eyes are too fragile to bear this.
+
 2. It don't have a seperate search bar like Vivaldi. I often want to search the same words in different search engines to get better results. Vivaldi can make this faster.
+
 3. Vivaldi can't press tab in the address bar to search, but it has a nickname feature. Just press g and a space bar and then you can search in google. It's much quicker than tab.
+
+4. I simply don't like the way win10 do it. It is suggesting using Edge everywhere. Did Microsoft forgot the antitrust case about its browser before?
 
 ## Vivaldi Use Experience
 
@@ -20,6 +28,7 @@ I find it a greate browser, and perhaps the best browser.
 
 - It support Chrome plugins.
 - The settings window is great and I can find it right at the bottom left corner or press Ctrl+F12.
+- I read about other advantages in [here](https://gizmodo.com/5-reasons-to-use-to-vivaldi-instead-of-chrome-or-firefo-1771284757). Some of them are useful.
 
 ## Disadvantage
 
