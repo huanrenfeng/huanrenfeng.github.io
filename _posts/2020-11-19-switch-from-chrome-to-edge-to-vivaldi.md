@@ -44,6 +44,8 @@ I find it a greate browser, and perhaps the best browser.
 
 - No IOS app. Meaning that I can't sync my data on my iPhone. 
 
+- Can't close the last tab to exit the app. When the app is only showing a "start page" tab, I have to click the X button instead of use the shortcut Ctrl + W. Frankly, Alt+F4 is too less convenient.
+
 ## All of these browsers compared to Firefox
 
 Firefox has a quite advanced web proxy setting feature.
