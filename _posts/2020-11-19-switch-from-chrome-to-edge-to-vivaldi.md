@@ -28,6 +28,8 @@ I find it a greate browser, and perhaps the best browser.
 
 - It support Chrome plugins.
 
+- Built-in Ad-blocker. I find it works on Youtube. Good
+
 - The settings window is great and I can find it right at the bottom left corner or press Ctrl+F12.
 
   Also. it's a small window instead of a new tab, meaning that I can set settings without switch tabs back and forth.
