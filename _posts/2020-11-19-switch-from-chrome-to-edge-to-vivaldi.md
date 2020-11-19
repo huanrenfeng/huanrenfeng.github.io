@@ -14,7 +14,7 @@ tags: [browser]
 
    (I have Dark Reader installed so it flash from white to the black webpage that DarkReader renders but it works well in Vivaldi meaning that Dark Reader isn't the cause of the issue).
 
-    My eyes are too fragile to bear this.
+    My eyes are too fragile to bear the flash. And I'm a crazy guy who seek every possible way to make my windows dark and easy to stare at all day.
 
 2. It don't have a seperate search bar like Vivaldi. I often want to search the same words in different search engines to get better results. Vivaldi can make this faster.
 
