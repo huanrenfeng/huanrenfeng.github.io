@@ -22,13 +22,13 @@ tags: [browser]
 
 4. I simply don't like the way win10 do it. It is suggesting using Edge everywhere. Did Microsoft forgot the antitrust case about its browser before?
 
-## Vivaldi Use Experience
+## Other Vivaldi's Nice Experience
 
 I find it a greate browser, and perhaps the best browser.
 
 - It support Chrome plugins.
 - The settings window is great and I can find it right at the bottom left corner or press Ctrl+F12.
-- I read about other advantages in [here](https://gizmodo.com/5-reasons-to-use-to-vivaldi-instead-of-chrome-or-firefo-1771284757). Some of them are useful.
+- TBH, I don't care many of it's unique features, The no-flash-from-white-to-black feature is enough.
 
 ## Disadvantage
 
