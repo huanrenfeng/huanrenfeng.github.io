@@ -23,6 +23,16 @@ I find it a greate browser, and perhaps the best browser.
 
 ## Disadvantage
 
-- I find no way to import password and bookmarks from the new Chromium based edge.
+- I find no direct UI way to import password and bookmarks from the new Chromium based edge.
+
+  But I did find [this link](https://forum.vivaldi.net/topic/23989/export-import-passwords-via-csv-vivaldi-1-13-1-14/7) that tells us that we can use a chrome's specific setting url to achieve import passwords through csv.
+
+  Bookmakrs are ok because I don't quite rely on it. I can remember most website urls that I use frequently. And I record other urls in my diary.
+
+  
+
 - No IOS app. Meaning that I can't sync my data on my iPhone. 
 
+## All of these browsers compared to Firefox
+
+Firefox has a quite advanced web proxy setting feature.
