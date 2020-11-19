@@ -27,9 +27,15 @@ tags: [browser]
 I find it a greate browser, and perhaps the best browser.
 
 - It support Chrome plugins.
+
 - The settings window is great and I can find it right at the bottom left corner or press Ctrl+F12.
+
+  Also. it's a small window instead of a new tab, meaning that I can set settings without switch tabs back and forth.
+
 - Select some words, and right click it to add it right to the "notes" in Vivaldi with it's web link. 
+  
   - Well, we all use Note apps like OneNote or Evernote to get it sync to all the platforms. But the in browser light weight note with some simple click might be useful for some inconsequential stuff.
+  
 - TBH, I don't care many of it's unique features, The no-flash-from-white-to-black feature is enough.
 
 ## Disadvantage
