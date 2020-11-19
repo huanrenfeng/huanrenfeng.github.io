@@ -21,7 +21,7 @@ I find it a greate browser, and perhaps the best browser.
 - It support Chrome plugins.
 - The settings window is great and I can find it right at the bottom left corner or press Ctrl+F12.
 
-## Disadventage
+## Disadvantage
 
 - I find no way to import password and bookmarks from the new Chromium based edge.
 - No IOS app. Meaning that I can't sync my data on my iPhone. 
