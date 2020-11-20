@@ -62,6 +62,10 @@ I find it a great browser, and perhaps the best browser.
 
 - Built-in Ad-blocker. I find it works on Youtube. However, it works much slower than uBlock Origin. It just wasted my time. 
 
+- Despite it has a seperate search bar which I like, everytime you restart the app the default search engine in the search bar will change to toe same search engine in the address bar, which is the default search engine of the App.
+
+  I mean this might be reasonalble. But do I need to different bar with the same search engine? Absolutely no. So why not remember the default search engine of the search bar particularly? 
+
 ## All of these browsers compared to Firefox
 
 Firefox has a quite advanced web proxy setting feature.
