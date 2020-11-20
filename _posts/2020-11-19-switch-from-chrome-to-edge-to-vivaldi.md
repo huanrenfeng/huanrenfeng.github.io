@@ -42,6 +42,8 @@ I find it a great browser, and perhaps the best browser.
 
 - PageUp and PageDown proformances seem to be faster than other browsers.
 
+- I often hate that I can't select a word and press Ctrl+F to find the word in Edge. I have to copy and paste it into the search text box. But Vivaldi can do this.
+
 - TBH, I don't care many of it's other unique features, They might be useful but the no-flash-from-white-to-black feature is enough. I'm better off already.
 
 ## Disadvantage
