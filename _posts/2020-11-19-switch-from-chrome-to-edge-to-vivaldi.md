@@ -86,7 +86,7 @@ It is said that we can make money through Brave?? Also it is said it's faster. I
 - But the built-in ad blocker is much faster. Somehow I think it's faster than uBlock
 - It seems to have "tab-search" feature as well, and have a Keyword feature which is the same as Vivaldi's nickname feature.
 - The icon of a new chrome plugin is not pinned by default. I don't like it.
-- It seems to have no flash problem when activating the window after it minimized.Hoever, when starting up, it still have the god damn white flash problem. 
+- It seems to have no flash problem when activating the window after it minimized.Hoever, when starting up, it still have the god damn white flash problem. However, I almost don't close the browser when it got some problem. So it's not that important.
 - Has less appearance settings than Vivaldi. I like Vivaldi
 
 
@@ -94,6 +94,8 @@ It is said that we can make money through Brave?? Also it is said it's faster. I
 Personally, I think I can use Brave. It's quick. It matters.
 
 
+
+It's a shame that no browser is perfect. If we can put them together like lego we can certainly get a perfect one.
 
 
 
