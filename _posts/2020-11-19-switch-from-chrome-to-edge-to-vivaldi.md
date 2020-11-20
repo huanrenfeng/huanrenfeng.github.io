@@ -68,10 +68,22 @@ I find it a great browser, and perhaps the best browser.
 
 Firefox has a quite advanced web proxy setting feature.
 
-As I remember, the settings UI is a window too in Firefox.
+As I remember, the settings UI is also a window in Firefox.
 
 I might switch to Firefox when I need to.
 
 ## Brave
 
 It is said that we can make money through Brave?? Also it is said it's faster. I'm going to give it a shot.
+
+- Well, I don't like the absence of a sperate search bar. I also don't like the seperate setting UI tab, without a shortcut key to bring it on.
+- But the built-in ad blocker is much faster. Somehow I think it's faster than uBlock
+- It seems to have no "tab-search" feature as well, but have a Keyword feature. It's the same as Vivaldi's nickname feature.
+- The icon of a new chrome plugin is not pinned by default. I don't like it.
+- It seems to have no flash problem as well.
+- Has less apperance settings than Vivaldi. I like Vivaldi
+
+
+
+Personally, I think I can use Brave as a temporary browser to watch Youtube or some inconsequential website when I'm resting. Also give it a shot to see if I can get any moeny from it. But I'll use Vivaldi my main browser.
+
