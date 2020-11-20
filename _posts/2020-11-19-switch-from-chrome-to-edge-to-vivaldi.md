@@ -22,7 +22,7 @@ tags: [browser]
 
 4. I simply don't like the way win10 do it. It is suggesting using Edge everywhere. Did Microsoft forgot the antitrust case about its browser before?
 
-## Other Vivaldi's Nice Experience
+## Other Nice Experience of Vivaldi
 
 I find it a great browser, and perhaps the best browser.
 
@@ -62,6 +62,12 @@ I find it a great browser, and perhaps the best browser.
 
 - Doesn't show up url when loading a new page until it's loaded or after several seconds.
 
+- The loading of a webpage is slower? I start to feel that.
+
 ## All of these browsers compared to Firefox
 
 Firefox has a quite advanced web proxy setting feature.
+
+As I remember, the settings UI is a window too in Firefox.
+
+I might switch to Firefox when I need to.
