@@ -1,5 +1,5 @@
 ---
-title: "Switch From Chrome To Edge To Vivaldi"
+title: "Switch From Chrome To Edge To Vivaldi To Brave"
 date: 2020-11-19
 tags: [browser]
 ---
