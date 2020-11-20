@@ -12,6 +12,8 @@ tags: [browser]
 
 1. It flashes from white to black every time I activte the window, also when starting the app ( the same issue occurs in Typora too). 
 
+   See this [link](https://techcommunity.microsoft.com/t5/discussions/edge-still-flashing-white-screen-and-force-dark-theme-visibility/m-p/1609930)
+
    (I have Dark Reader installed so it flash from white to the black webpage that DarkReader renders but it works well in Vivaldi meaning that Dark Reader isn't the cause of the issue).
 
     My eyes are too fragile to bear the flash. And I'm a crazy guy who seek every possible way to make my windows dark and easy to stare at all day.
