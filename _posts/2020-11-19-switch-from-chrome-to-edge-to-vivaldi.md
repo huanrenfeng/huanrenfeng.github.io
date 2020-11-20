@@ -28,8 +28,6 @@ I find it a great browser, and perhaps the best browser.
 
 - It support Chrome plugins.
 
-- Built-in Ad-blocker. I find it works on Youtube. Good
-
 - The settings window is great and I can find it right at the bottom left corner or press Ctrl+F12.
 
   Also. it's a small window instead of a new tab, meaning that I can set settings without switch tabs back and forth.
@@ -63,6 +61,8 @@ I find it a great browser, and perhaps the best browser.
 - Doesn't show up url when loading a new page until it's loaded or after several seconds.
 
 - The loading of a webpage is slower? I start to feel that.
+
+- Built-in Ad-blocker. I find it works on Youtube. However, it works much slower than uBlock Origin. It just wasted my time. 
 
 ## All of these browsers compared to Firefox
 
