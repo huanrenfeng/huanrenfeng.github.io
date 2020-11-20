@@ -91,9 +91,7 @@ It is said that we can make money through Brave?? Also it is said it's faster. I
 
 
 
-Personally, I think I can use Brave. It's quick. It matters.
-
-
+Personally, I think I can use them together. One is quick, the other is user friendly.
 
 It's a shame that no browser is perfect. If we can put them together like lego we can certainly get a perfect one.
 
