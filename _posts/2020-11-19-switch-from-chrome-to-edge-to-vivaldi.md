@@ -60,8 +60,6 @@ I find it a great browser, and perhaps the best browser.
 
 - Doesn't show up url when loading a new page until it's loaded or after several seconds.
 
-- The loading of a webpage is slower? I start to feel that.
-
 - Built-in Ad-blocker. I find it works on Youtube. However, it works much slower than uBlock Origin. It just wasted my time. 
 
 ## All of these browsers compared to Firefox
