@@ -91,5 +91,11 @@ It is said that we can make money through Brave?? Also it is said it's faster. I
 
 
 
-Personally, I think I can use Brave as a temporary browser to watch Youtube or some inconsequential website when I'm resting. Also give it a shot to see if I can get any moeny from it. But I'll use Vivaldi my main browser, no doubt.
+Personally, I think I can use Brave as a temporary browser to watch Youtube or some inconsequential website when I'm resting, or searching different contents frequently which requires loading speed. 
+
+Also give it a shot to see if I can get any moeny from it. 
+
+But I'll use Vivaldi my main browser, no doubt, because of the fix of the flashing problem.
+
+
 
