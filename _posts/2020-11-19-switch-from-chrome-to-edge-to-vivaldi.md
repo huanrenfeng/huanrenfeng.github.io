@@ -40,7 +40,7 @@ I find it a great browser, and perhaps the best browser.
   
 - Show progress inside address bar
 
-- PageUp and PageDown proformances seem to be faster than other browsers.
+- PageUp and PageDown performances seem to be faster than other browsers.
 
 - I often hate that I can't select a word and press Ctrl+F to find the word in Edge. I have to copy and paste it into the search text box. But Vivaldi can do this. I mean yes the first time you search a word, both browsers can do it. But if you search another word by Ctrl + F again, Edge will not change its searching word.
 
