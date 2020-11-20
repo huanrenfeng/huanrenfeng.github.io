@@ -68,7 +68,7 @@ I find it a great browser, and perhaps the best browser.
 
   I mean this might be reasonalble. But do I need to different bar with the same search engine? Absolutely no. So why not remember the default search engine of the search bar particularly? 
 
-- Loading speed is slower than Edge and Brave.
+- Loading speed is slower than Edge and Brave. However, I found that disable "Page Load Progress Bar" will make it faster.
 
 ## All of these browsers compared to Firefox
 
