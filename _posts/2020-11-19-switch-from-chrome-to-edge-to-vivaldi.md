@@ -71,3 +71,7 @@ Firefox has a quite advanced web proxy setting feature.
 As I remember, the settings UI is a window too in Firefox.
 
 I might switch to Firefox when I need to.
+
+## Brave
+
+It is said that we can make money through Brave?? Also it is said it's faster. I'm going to give it a shot.
