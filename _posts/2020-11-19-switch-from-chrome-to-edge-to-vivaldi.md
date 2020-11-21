@@ -66,6 +66,10 @@ I find it a great browser, and perhaps the best browser.
 
 - Loading speed is slower than Edge and Brave. However, I found that disable "Page Load Progress Bar" will make it faster.
 
+- It still get white flash issue when the first time opening the Start Page in a new tab. Also it's blank page is pure white instead of black.
+
+  
+
 ## All of these browsers compared to Firefox
 
 Firefox has a quite advanced web proxy setting feature.
