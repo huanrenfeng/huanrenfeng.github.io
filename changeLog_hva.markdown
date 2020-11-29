@@ -30,4 +30,7 @@ Current version: 0.05
 
 ## 4: Fill Her Up && Hentai Pregnancy Addon
 
-	1. Makes a check once per hour. If the player has Vaginal cum in them from Fill her Up, it rolls an attempt to impregnate them via Hentai pregnancy. An option to toggle checking for anal instead of vaginal.
+	1. Makes a check once per hour. If the player has Vaginal cum in them from Fill her Up, 
+	it rolls an attempt to impregnate them via Hentai pregnancy. An option to toggle checking 
+	for anal instead of vaginal.
+
