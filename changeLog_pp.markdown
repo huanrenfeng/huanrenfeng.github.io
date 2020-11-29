@@ -6,6 +6,14 @@ permalink: /PublicPlaything/
 
 ## Public Plaything Changelog
 
+### 0.0822(11-29-2020)
+
+Fix a bug that the assault might not get restarted.
+
+Correct the info in the MCM description. Fix some other minus bugs.
+
+
+
 ### 0.0821(11-26-2020)
 
 Separate huan's skse plugin from Public Plaything. No more mouse issues and dialog menu.
