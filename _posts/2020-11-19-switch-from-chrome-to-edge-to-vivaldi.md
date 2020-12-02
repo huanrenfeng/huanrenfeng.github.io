@@ -100,5 +100,5 @@ It's a shame that no browser is perfect. If we can put them together like lego w
 
 
 
-
+## update: swtched to Brave, because I think I need the money
 
