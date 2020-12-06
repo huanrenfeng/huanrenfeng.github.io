@@ -6,6 +6,28 @@ permalink: /BaD/
 
 # Being a Doggy Change Log
 
+
+
+## 0.88 (12-06-2020)
+
+1. I've successfully ported ZaZ Animation Pack's 14 different kinds of cages into Being a Doggy.
+
+   There is a new Lesser Power Spell called "BaD PutCages", which can be added through MCM-> Debug.
+
+   Click the corresponding button and it will put the cage in front of you.
+
+   In the next version, I'll make some dialogs, to let doggies walk into the cage automatically, and maybe let them fuck each other or let you punish them.
+
+   Yeah currently there's no button to remove the cages. I'll add this feature in the next version.
+
+
+
+2. More free wandering feature. There's a new option "Act as if not a doggy". With this option on, the NPC will only walk differently (crawling), and will not seek for help or attract others' help in any way.
+
+   This option is different from "No interaction" option. If you only have No Interaction option on, the doggy will not attract or seek help, but the doggy stays still. With "Act as if not a doggy", the doggy will do whatever they were doing, only with crawling on fours.
+
+   
+
 ## 0.873 (11-17-2020)
 
 Fix a fatal bug that BaD won't work when DDi not installed. 
