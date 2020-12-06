@@ -12,6 +12,8 @@ permalink: /BaD/
 
 1. I've successfully ported ZaZ Animation Pack's 14 different kinds of cages into Being a Doggy.
 
+   This is not a hard port, so you'll still need ZaZ Animation Pack 8.0+ installed
+
    There is a new Lesser Power Spell called "BaD PutCages", which can be added through MCM-> Debug.
 
    Click the corresponding button and it will put the cage in front of you.
