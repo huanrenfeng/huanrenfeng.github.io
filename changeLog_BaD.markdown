@@ -6,7 +6,9 @@ permalink: /BaD/
 
 # Being a Doggy Change Log
 
+## 0.881 (12-07-2020)
 
+Fix a bug that when Devious Devices feature is on, and when Do Strip option is on, the game will redress the doggy. It's not a bug from BaD but I find a trick that will suppress this issue.
 
 ## 0.88 (12-06-2020)
 
@@ -41,7 +43,7 @@ Fix a bug that the mod can't remove DDi armors correctly.
 ## 0.872  (11-12-2020)
 
 1. Make the mod print "Doggy Curse Cured!" notification once you get the curse cured. It's helpful when DDi is on, because the removal of all the devices is very slow, about 2 second per piece.
-1. Re-adjust the MuST preset for animated ears, making top ears more easily to get than side ears. Currently the number is 8:5, meaning that every 13 pairs of ears, you'll get 8 top ears, 5 side ears. It just is because I don't like side ears very much. You can adjust it tough. 050f9d25 ~ 050f9d29 are all side ears, the rest are top ears.
+1. Re-adjust the MuST preset for animated ears, making top ears more easily to get than side ears. Currently the number is 8:5, meaning that every 13 pairs of ears, you'll get 8 top ears, 5 side ears. It just is because I don't like side ears very much. You can adjust it though. 050f9d25 ~ 050f9d29 are all side ears, the rest are top ears.
 1. Fix a bug that when Devious Device is on, we can't recover from being a doggy.
 1. Fix a bug that the mod can't remove DD armors properly.
 1. Forbid Gag, Blindfold,Harness,  Heavy Bondage, Suit and Yoke types of Devious Device by default.
