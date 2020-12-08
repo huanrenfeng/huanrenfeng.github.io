@@ -6,6 +6,27 @@ permalink: /BaD/
 
 # Being a Doggy Change Log
 
+## 0.89
+
+1. Add Enable All, Disable All, Reset to Default buttons to the DDi Config Lesser Power.
+
+2. Add some dialogs to NPCs when you are being a doggy with Devious Devices. Talk to them and they will help you getting rid of one piece of the deivce, with a special cost. (Money, sex or being a pet, it's your choice)
+
+3. Print "You are xxx's pet now!  New powers in Doggy Power available" when you are adopted.
+
+   
+
+   In future version, there will be built-in punishment animation for master to torture their doggies.
+
+   
+
+   Some ideas: 
+
+   1. Magic book for Pets: a magical book that will reveal all the master-pet relationship in the world. You will be able to know which doggy is which master's pet.
+   2. Doggy Slavery: there will be a doggy market. And if you master don't want you any more, you can be sold there. And doggy can be made to do some chores.
+
+   
+
 ## 0.881 (12-07-2020)
 
 Fix a bug that when Devious Devices feature is on, and when Do Strip option is on, the game will redress the doggy. It's not a bug from BaD but I find a trick that will suppress this issue.
