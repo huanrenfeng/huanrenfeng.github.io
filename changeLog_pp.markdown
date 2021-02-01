@@ -6,6 +6,13 @@ permalink: /PublicPlaything/
 
 ## Public Plaything Changelog
 
+### 0.0823(2-1-2021)
+
+1. Make the stalker stop assaulting if player is in combat 
+2. Make player's current dialog menu cancelled if stalker start assaulting  
+3. Fix a bug that when recover from the scene, if player is using a weapon, the player won't be able to sheath
+4. Won't select any character who is in sex animation as a stalker
+
 ### 0.0822(11-29-2020)
 
 Fix a bug that the assault might not get restarted.
