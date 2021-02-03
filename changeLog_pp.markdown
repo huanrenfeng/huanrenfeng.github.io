@@ -6,6 +6,19 @@ permalink: /PublicPlaything/
 
 ## Public Plaything Changelog
 
+### 0.083(2-3-2021)
+
+new MCM options:
+	Polite Assaulter:  		the stalker will not interupt your dialog menu when he is trying to assault you
+	Spectator Assaulter: 	the stalker will not leave when you are having sex, but stand next to you to watch
+	
+Stalker won't start follow if you are in combat; Also if you have "Assaulter Could Give up" option on, the mod will also check your combat state every 5 seconds when the stalker is following but now assaulting
+
+
+Adopt mod Deviously Enslaved Continued's isPlayerBusy method and some relevent method to avoid assaulting in the inappropriate timing.
+
+Fix a minor bug in 0.0823
+
 ### 0.0823(2-1-2021)
 
 1. Make the stalker stop assaulting if player is in combat 
