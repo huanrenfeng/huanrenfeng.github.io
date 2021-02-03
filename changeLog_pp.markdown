@@ -9,8 +9,8 @@ permalink: /PublicPlaything/
 ### 0.083(2-3-2021)
 
 new MCM options:
-	Polite Assaulter:  		the stalker will not interupt your dialog menu when he is trying to assault you
-	Spectator Assaulter: 	the stalker will not leave when you are having sex, but stand next to you to watch
+	Polite Assaulter:  		the stalker will not interupt your dialog and just leave when he is trying to assault you
+	Spectator Assaulter: 	the stalker will not leave when you are having sex, but stand next to you to watch (The emerge of this option means that the stalker will not bothering you normally when you are having sex.)  
 	
 Stalker won't start follow if you are in combat; Also if you have "Assaulter Could Give up" option on, the mod will also check your combat state every 5 seconds when the stalker is following but now assaulting
 
