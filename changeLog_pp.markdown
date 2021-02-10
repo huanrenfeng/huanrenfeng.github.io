@@ -25,7 +25,7 @@ Minor condition checking improvements.
 
 Starting from this version:
 
-The stalker won't cancel player's current dialog if he is starting to harrass if Polite Stalker is on.
+The stalker will cancel player's current dialog if he is starting to harrass if Polite Stalker is off.
 
 The mod will check the relationship between the NPC and the player. If the NPC is the player's enemy, he will not be selected as a stalker. (As if he approaches you two will start fight, I think. Not tested.)
 
@@ -35,7 +35,11 @@ NPC's who is riding a horse won't be a stalker.
 
 ### 0.0831(2-8-2021)
 
-Add 2 new MCM option for the struggle Key binding.  Fix a bug that if you escape from the stalker, he will never give up no matter you ticked "Assaulter could give up" or not.  A try to Fix a bug for SSE that the mod won't work, which is caused by a dated seq file. Tell me if you still can't get the SE version working.
+Add 2 new MCM option for the struggle Key binding.  
+
+Fix a bug that if you escape from the stalker, he will never give up no matter you ticked "Assaulter could give up" or not. 
+
+ A try to Fix a bug for SSE that the mod won't work, which is caused by a dated seq file. Tell me if you still can't get the SE version working.
 
 ### 0.083(2-3-2021)
 
