@@ -6,6 +6,37 @@ permalink: /PublicPlaything/
 
 ## Public Plaything Changelog
 
+
+
+## 0.090(2-10-2021)
+
+Fix a bug that after you temporarily run away, the dialogs stuck in every NPC's dialog menu.
+
+Fix a bug that the player will make a weird unclear comment when the stalker start harassing.
+
+
+Fix a bug that in the second level dialog (Like the line letting the stalker strip your pants), when you done talking, the struggle bar will become invisible forever. Tell me if you still encounter this bug.
+
+Fix minor bugs that isn't noticeable but will impact performance.
+
+Rearrange the MCM.
+
+Minor condition checking improvements. 
+
+Starting from this version:
+
+The stalker won't cancel player's current dialog if he is starting to harrass.
+
+The mod will check the relationship between the NPC and the player. If the NPC is the player's enemy, he will not be selected as a stalker. (As if he approaches you two will start fight, I think. Not tested.)
+
+NPC's who is riding a horse won't be a stalker.
+
+(It's an idea to let your enemy harrass you, but I think it's a better idea to let SexLab Defeat handle it. PP is more fit for friendly situation.)
+
+### 0.0831(2-8-2021)
+
+Add 2 new MCM option for the struggle Key binding.  Fix a bug that if you escape from the stalker, he will never give up no matter you ticked "Assaulter could give up" or not.  A try to Fix a bug for SSE that the mod won't work, which is caused by a dated seq file. Tell me if you still can't get the SE version working.
+
 ### 0.083(2-3-2021)
 
 new MCM options:
