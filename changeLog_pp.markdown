@@ -25,7 +25,7 @@ Minor condition checking improvements.
 
 Starting from this version:
 
-The stalker won't cancel player's current dialog if he is starting to harrass.
+The stalker won't cancel player's current dialog if he is starting to harrass if Polite Stalker is on.
 
 The mod will check the relationship between the NPC and the player. If the NPC is the player's enemy, he will not be selected as a stalker. (As if he approaches you two will start fight, I think. Not tested.)
 
