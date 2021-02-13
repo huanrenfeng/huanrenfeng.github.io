@@ -8,6 +8,23 @@ permalink: /PublicPlaything/
 
 
 
+## 0.091(2-13-2021)
+
+Fix a bug that sometimes the NPC will get jostled and pushed away from the assaulting position.
+
+Fix a bug that when force reset when the stalker is standing up from the ragdoll state, he will be frozen.
+
+Fix a bug that when force reset your weapons' out, you will be frozen. 
+
+Fix a bug that when 1_babo, stalker saying "Haha, I'm going to rape you!", there's no animation
+
+Fix a bug thatn in 2_huan, when you run away but get caught by the stalker again, the animations will not run at all
+
+Make the "Information" Button in the Debug Menu Magic show current stalker correctly and show current scene file name.
+
+
+Use IsHostileToActor instead of GetRelationshipRank to determine if the stalker is an enemy.
+
 ## 0.090(2-10-2021)
 
 Fix a bug that after you temporarily run away, the dialogs stuck in every NPC's dialog menu.
