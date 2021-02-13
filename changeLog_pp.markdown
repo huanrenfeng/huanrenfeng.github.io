@@ -10,7 +10,7 @@ permalink: /PublicPlaything/
 
 ## 0.091(2-13-2021)
 
-Fix a bug that sometimes the NPC will get jostled and pushed away from the assaulting position.
+An attempt to fix a bug that sometimes the NPC will get jostled and pushed away from the assaulting position. (It's not 100% reliable. I don't know why.)
 
 Fix a bug that when force reset when the stalker is standing up from the ragdoll state, he will be frozen.
 
