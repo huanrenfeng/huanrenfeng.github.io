@@ -14,7 +14,7 @@ An attempt to fix a bug that sometimes the NPC will get jostled and pushed away 
 
 Fix a bug that when force reset when the stalker is standing up from the ragdoll state, he will be frozen.
 
-Fix a bug that when force reset your weapons' out, you will be frozen. 
+Fix a bug that when force reset when your weapons' out, you will be frozen. 
 
 Fix a bug that when 1_babo, stalker saying "Haha, I'm going to rape you!", there's no animation
 
