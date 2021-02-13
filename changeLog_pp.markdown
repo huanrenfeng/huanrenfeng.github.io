@@ -20,7 +20,7 @@ Fix a bug that when 1_babo, stalker saying "Haha, I'm going to rape you!", there
 
 Fix a bug thatn in 2_huan, when you run away but get caught by the stalker again, the animations will not run at all
 
-Make the "Information" Button in the Debug Menu Magic show current stalker correctly and show current scene file name.
+Make the "Information" Button in the Debug Menu Magic show current stalker name correctly and show current scene file name.
 
 
 Use IsHostileToActor instead of GetRelationshipRank to determine if the stalker is an enemy.
@@ -34,7 +34,7 @@ Fix a bug that the player will make a weird unclear comment when the stalker sta
 
 Fix a bug that in the second level dialog (Like the line letting the stalker strip your pants), when you done talking, the struggle bar will become invisible forever. Tell me if you still encounter this bug.
 
-Fix minor bugs that isn't noticeable but will impact performance.
+Fix several minor bugs that isn't noticeable but will impact performance.
 
 Rearrange the MCM.
 
