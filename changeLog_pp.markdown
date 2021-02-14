@@ -6,7 +6,7 @@ permalink: /PublicPlaything/
 
 ## Public Plaything Changelog
 
-### 0.0911(2-13-2021)
+### 0.0911(2-14-2021)
 
 I think I fixed the displacement bug, which mentioned in the 0.091's description.
 
