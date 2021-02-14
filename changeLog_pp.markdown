@@ -18,7 +18,7 @@ Fix a bug that when force reset when your weapons' out, you will be frozen.
 
 Fix a bug that when 1_babo, stalker saying "Haha, I'm going to rape you!", there's no animation
 
-Fix a bug thatn in 2_huan, when you run away but get caught by the stalker again, the animations will not run at all
+Fix a bug that in 2_huan, when you run away but get caught by the stalker again, the animations will not run at all
 
 Make the "Information" Button in the Debug Menu Magic show current stalker name correctly and show current scene file name.
 
@@ -61,9 +61,11 @@ Fix a bug that if you escape from the stalker, he will never give up no matter y
 ### 0.083(2-3-2021)
 
 new MCM options:
-	Polite Assaulter:  		the stalker will not interupt your dialog and just leave when he is trying to assault you
-	Spectator Assaulter: 	the stalker will not leave when you are having sex, but stand next to you to watch (The emerge of this option means that the stalker will not bothering you normally when you are having sex.)  
-	
+
+​	Polite Assaulter:  		the stalker will not interupt your dialog and just leave when he is trying to assault you
+
+​	Spectator Assaulter: 	the stalker will not leave when you are having sex, but stand next to you to watch (The emerge nce of this option means that the stalker will not bothering you normally when you are having sex.)  
+​	
 Stalker won't start follow if you are in combat; Also if you have "Assaulter Could Give up" option on, the mod will also check your combat state every 5 seconds when the stalker is following but now assaulting
 
 
