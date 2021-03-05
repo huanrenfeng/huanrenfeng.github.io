@@ -6,6 +6,19 @@ permalink: /PublicPlaything/
 
 ## Public Plaything Changelog
 
+
+
+## 0.10(3-5-2021)
+
+1. Fixed a bug that when you toggled "Enable Mod" off, you sometimes still get assaulted
+2. Add toggle for Notification and Conditions in MCM
+3. Add 2 condition toggle: Indoors only and Outdoors only. You can't let them both on or you'll absolutely get no assaulters.
+4. Rename animation file names to avoid confliction with SLHH. Note that I don't recommend play along with SLHH. It's just a easy thing to do, not for any mods.
+5. Add an new action. It's a simplified version of huan_2, the assaulter just grope you and will rape you. Simple two step action.
+6. Add a new button in the debug power to test the conditions. Now the old "Start Test" button will ignore the conditions you set and start an action immidiately, but the "Start Test with Conditions" respect the conditions.
+
+
+
 ### 0.0911(2-14-2021)
 
 I think I fixed the displacement bug, which mentioned in the 0.091's description.
@@ -22,7 +35,7 @@ Fix a bug that when 1_babo, stalker saying "Haha, I'm going to rape you!", there
 
 Fix a bug that in 2_huan, when you run away but get caught by the stalker again, the animations will not run at all
 
-Make the "Information" Button in the Debug Menu Magic show current stalker name correctly and show current scene file name.
+Make the "Information" Button in the Debug Menu Magic show current stalker name correctly and show current action file name.
 
 
 Use IsHostileToActor instead of GetRelationshipRank to determine if the stalker is an enemy.
