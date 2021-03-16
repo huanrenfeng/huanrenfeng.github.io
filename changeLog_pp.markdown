@@ -6,7 +6,10 @@ permalink: /PublicPlaything/
 
 ## Public Plaything Changelog
 
+## 0.11(3-11-2021)
 
+1. Add new conditions: male, female, day, night, arousal for PC or NPC, LOS, and distance
+2. Make Debug Disabled by default
 
 ## 0.10(3-5-2021)
 
