@@ -6,6 +6,9 @@ permalink: /BaD/
 
 # Being a Doggy Change Log
 
+## 0.90 (04-21-2021)
+Add new Crawl Animation for the player. You can now choose the PC crawling type in MCM. Please run FNIS again before playing with the mod.
+
 ## 0.89
 
 1. Add Enable All, Disable All, Reset to Default buttons to the DDi Config Lesser Power.
