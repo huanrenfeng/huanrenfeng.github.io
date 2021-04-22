@@ -6,6 +6,14 @@ permalink: /BaD/
 
 # Being a Doggy Change Log
 
+### 0.901 (04-22-2021)
+1. Fix the warp in the waist with the army crawl animation.
+2. Slow down crawling speed by 50% when army crawling.
+3. Forbid NPC doing army crawl to avoid glitches.
+4. Add a new HotKey in MCM for switching Crawling Style Quickly. I suggest using Key N. 
+
+
+
 ## 0.90 (04-21-2021)
 Add new Crawl Animation - Army Crawl for the player. You can now choose the PC crawling type in MCM. Please run FNIS again before playing with the mod.
 
