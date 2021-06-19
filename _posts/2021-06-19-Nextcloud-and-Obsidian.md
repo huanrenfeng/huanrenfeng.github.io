@@ -1,5 +1,5 @@
 ---
-title: "Nextcloud and obsidian"
+title: "Nextcloud and Obsidian"
 date: 2021-06-19
 tags: [diary]
 ---
