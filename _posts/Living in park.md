@@ -1,3 +1,10 @@
+---
+title: "living in the park"
+date: 2021-06-18
+tags: [dairy]
+---
+
+
 I tried living in park, when the temperature outside is not that hot or when there's a breeze.
 
 I bought a foldable chair. And I can use the bench as a table, for me using my laptop.
