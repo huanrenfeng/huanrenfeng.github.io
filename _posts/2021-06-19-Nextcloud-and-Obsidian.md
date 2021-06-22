@@ -7,7 +7,7 @@ tags: [diary]
 
 I was working with nextcloud and obsidian these days.
 
-I want to utilize my VPS. Because my old VPS server's port's restriction got removed for unknown reasons. So I have two VPS.
+I have one extra VPS.
 And I always have some complains about **OneNote** that I use. The syncing process is slow and sometimes unstable on IOS or Android apps.
 
 First thing I touched is **Owncloud**, but after I've installed it, I started to realize that **Nextcloud** is much better than Owncloud, in terms of Note taking. You see the **Nextcloud Notes** app in the Google play store only supports Nextcloud account. 
@@ -29,3 +29,5 @@ So I got my solution for self host VPS note taking: **Nextcloud + Nextcloud Note
 The day after that, I learned about a new app: **Zettlr**. In many ways, it's even better than Obsidian. However, everytime Nextcloud updates a file, Zettlr get a glitch. It's a fatal problem that makes me stick to Obsidian.
 
 About android apps, I did notice Joplin, and used it. Not better than Nexcloud Notes or 1Writer in terms of appearance. And the syncing method doesn't support self signed certificate in the IOS app. Also, it seems that it creates a lot of unknown files in the directory, and doesn't present my original notes. I don't know if it's problematic or I was using it in a wrong way. Anyway it's not a prefered app.
+
+In 6-22, I contributed in nextcloud-notes github project, brought the outline view to the app. With outline, Nextcloud Notes become my favorate app for Note taking with Nextcloud. If possible I think we should make nextcloud-notes available for more webdav providers.
