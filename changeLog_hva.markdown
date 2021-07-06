@@ -7,7 +7,7 @@ permalink: /hva/
 
 
 
-Current version: 0.05
+Current version: 0.06
 
  A lesser power which triggers an UI that contains various addon options.
 
@@ -34,3 +34,7 @@ Current version: 0.05
 	it rolls an attempt to impregnate them via Hentai pregnancy. An option to toggle checking 
 	for anal instead of vaginal.
 
+## 5: Devious Device 5.1+ Addon
+
+	1.  Toggle Use Animation Filter. (In Devious Device 5.1+, the "Use Animation Filter" option got removed. But some friends still need this option to gain some amazing animaitons that they what in any time. Use this addon to get the toggle back)
+	
