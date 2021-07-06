@@ -24,17 +24,20 @@ Current version: 0.06
 
 	1. Play a funny spring sound after unequipping a body armor.
 	
-	2. If the player is a vampire, after the sex from SexLab it will trigger the vampire feed event. (This can not be toggled off, because I think every vampire player love this.)
+	2. If the player is a vampire, after the sex from SexLab it will trigger the vampire feed event. 
+		(This can not be toggled off, because I think every vampire player love this.)
 
 ​	
 
 ## 4: Fill Her Up && Hentai Pregnancy Addon
 
 	1. Makes a check once per hour. If the player has Vaginal cum in them from Fill her Up, 
-	it rolls an attempt to impregnate them via Hentai pregnancy. An option to toggle checking 
+	it rolls an attempt to impregnate them via Hentai pregnancy. There's an option to toggle checking 
 	for anal instead of vaginal.
 
 ## 5: Devious Device 5.1+ Addon
 
-	1.  Toggle Use Animation Filter. (In Devious Device 5.1+, the "Use Animation Filter" option got removed. But some friends still need this option to gain some amazing animaitons that they what in any time. Use this addon to get the toggle back)
+	1.  Toggle Use Animation Filter. (In Devious Device 5.1+, the "Use Animation Filter" option got removed. 
+		But some friends still need this option to gain some amazing animaitons that they what in any time. 
+		Use this addon to get the toggle back)
 	
