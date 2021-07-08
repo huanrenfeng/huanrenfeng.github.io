@@ -14,11 +14,11 @@ permalink: /about/
 
 [Youtube](https://www.youtube.com/channel/UCPrSxuyxhgfnuQp3RMo0WEA?view_as=subscriber)
 
-[Github](https://github.com/renfenghuan)
+[Github](https://github.com/huanrenfeng)
 
 ## Huan's Other Good Things
 
-[7zip Dark Mode](https://github.com/renfenghuan/7zipDarkmode)
+[7zip Dark Mode](https://github.com/huanrenfeng/7zipDarkmode)
 
 
 
