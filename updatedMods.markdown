@@ -13,7 +13,7 @@ permalink: /updatedMods
 
 ## Being a doggy
 
- [0.873](https://www.patreon.com/posts/being-doggy-0-le-43987556)  [Changelog](https://renfenghuan.github.io/BaD/)
+ [0.873](https://www.patreon.com/posts/being-doggy-0-le-43987556)  [Changelog](https://huanrenfeng.github.io/BaD/)
 
   and [BaD Live Another Life addon (LE)](https://www.patreon.com/posts/bad-live-another-33875739) 
 
